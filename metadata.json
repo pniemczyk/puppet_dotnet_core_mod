@@ -1,0 +1,14 @@
+{
+  "name": "light-dotnet-core",
+  "version": "2.1",
+  "author": "Pawel Niemczyk",
+  "summary": "A barebones .Net Core installation",
+  "license": "MIT",
+  "source": "https://github.com/pniemczyk/light-dotnet-core",
+  "project_page": "https://github.com/pniemczyk/light-dotnet-core",
+  "issues_url": "https://github.com/pniemczyk/light-dotnet-core/issues",
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">= 4.1.0 < 5.0.0"}
+  ],
+  "data_provider": null
+}
