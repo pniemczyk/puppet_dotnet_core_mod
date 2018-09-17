@@ -4,6 +4,6 @@
   "examples/curl_conflict.pp": "e3f550779308d02002bd62578d6fcb5e",
   "examples/init.pp": "219a1a800984e2f615c109e6257c1322",
   "manifests/init.pp": "6439e4fd3947308010b4f16df650d0ff",
-  "metadata.json": "6bc8a24fea7687cf45b1b93ab68db9b6",
+  "metadata.json": "dc2e4b357d37b8060b77dddf6f8c37ba",
   "templates/dotnet_core.sh.erb": "9ca4452b9bc3e072cfa3cf21bd264275"
 }
